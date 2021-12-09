@@ -1,2 +1,2 @@
-# luna
+# minimo
 bootstrap
